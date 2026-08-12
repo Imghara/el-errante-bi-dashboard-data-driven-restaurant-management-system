@@ -13,10 +13,8 @@
 
 ## 🚀 Demo en línea
 
-🔗 **App en Streamlit Community Cloud (próximamente):** <https://el-errante-bi.streamlit.app>
-
-<!-- Actualizar el enlace anterior tras el despliegue real en Streamlit Cloud.
-     El subdominio queda definido por el nombre del repositorio en GitHub. -->
+🔗 **App desplegada en Streamlit Community Cloud:**
+<https://bi-dashboard-data-driven-restaurant-management-system.streamlit.app/>
 
 ---
 
