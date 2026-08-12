@@ -1,0 +1,2 @@
+# el-errante-bi-dashboard-data-driven-restaurant-management-system
+Ecosistema de BI para El Errante que optimiza ingresos, ROI y CRM. Une ingeniería de datos con estrategia comercial mediante Predicción de Demanda, Alertas de Deserción y Auditoría de Personal. Es el copiloto del Gerente General para asegurar la escalabilidad en NL, Coahuila y Tamaulipas, blindando el margen ante la volatilidad del mercado.
