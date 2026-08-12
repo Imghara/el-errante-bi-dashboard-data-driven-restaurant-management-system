@@ -1,0 +1,26 @@
+# ============================================================
+# STREAMLIT THEME — Proyecto "El Errante"
+# Sistema de Diseño "Océano & Arena" (ver DOCUMENTO_MAESTRO.md §5)
+# Generado: 2026-08-11
+# ============================================================
+
+[theme]
+base = "dark"
+
+# Paleta oficial
+primaryColor = "#1BA39C"            # Turquesa Oleaje (metas, crecimiento)
+backgroundColor = "#0B2545"         # Azul Océano Profundo (fondo principal)
+secondaryBackgroundColor = "#13315C" # Azul Marino (superficies)
+textColor = "#F8FAFC"               # Perla (texto principal)
+
+font = "sans serif"
+
+# ------------------------------------------------------------
+# Comportamiento general
+# ------------------------------------------------------------
+[server]
+headless = true
+maxUploadSize = 200
+
+[browser]
+gatherUsageStats = false

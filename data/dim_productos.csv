@@ -1,0 +1,183 @@
+id_producto,nombre_producto,categoria,subcategoria,etiquetas,precio_venta,costo_base,es_ancla,es_incentivable
+1,Sopa de Mariscos,Alimento,Ancla,"ancla,familiar",195,113.1,True,False
+2,Ceviche de Camarón,Alimento,Principal,fresco,165,102.3,False,True
+3,Ceviche Mixto,Alimento,Principal,fresco,185,114.7,False,True
+4,Ceviche de Pescado,Alimento,Principal,fresco,155,96.1,False,True
+5,Ceviche Verde,Alimento,Variante,fresco,175,105.0,False,True
+6,Ceviche de Pulpo,Alimento,Principal,premium,210,130.2,False,True
+7,Ceviche de Sierra,Alimento,Principal,fresco,170,105.4,False,True
+8,Ceviche de Atún,Alimento,Principal,fresco,178,110.36,False,True
+9,Ceviche Tostada,Alimento,Variante,fresco,145,87.0,False,True
+10,Ceviche Tatemado,Alimento,Variante,temporada,180,108.0,False,True
+11,Ceviche de Callo de Hacha,Alimento,Principal,premium,220,136.4,False,True
+12,Ceviche de Camarón Gigante,Alimento,Variante,premium,240,144.0,False,True
+13,Ceviche de Jaiba,Alimento,Principal,fresco,168,104.16,False,True
+14,Ceviche de Caracol,Alimento,Principal,fresco,190,117.8,False,True
+15,Ceviche Sinaloense,Alimento,Principal,temporada,195,120.9,False,True
+16,Ceviche de Mero,Alimento,Principal,fresco,200,124.0,False,True
+17,Ceviche de Huachinango,Alimento,Principal,premium,205,127.1,False,True
+18,Ceviche de Camarón al Coco,Alimento,Variante,vistoso,195,117.0,False,True
+19,Ceviche de Pescado Tostada,Alimento,Variante,fresco,150,90.0,False,True
+20,Ceviche de Pulpo al Cilantro,Alimento,Variante,premium,215,129.0,False,True
+21,Ceviche de Camarón y Pulpo,Alimento,Principal,premium,225,139.5,False,True
+22,Ceviche de Atún Aleta Amarilla,Alimento,Principal,premium,235,145.7,False,True
+23,Ceviche de Ostión,Alimento,Principal,fresco,175,108.5,False,True
+24,Ceviche de Camarón al Mango,Alimento,Variante,"vistoso,temporada",185,111.0,False,True
+25,Ceviche de Huachinango Tostada,Alimento,Variante,fresco,155,93.0,False,True
+26,Filete de Pescado Empanizado,Alimento,Principal,familiar,185,122.1,False,True
+27,Filete a la Plancha,Alimento,Principal,familiar,190,125.4,False,True
+28,Filete al Mojo de Ajo,Alimento,Principal,familiar,200,132.0,False,True
+29,Filete Relleno de Camarón,Alimento,Principal,premium,245,161.7,False,True
+30,Filete Veracruzano,Alimento,Principal,temporada,210,138.6,False,True
+31,Filete al Pastor de Marisco,Alimento,Variante,temporada,195,124.8,False,True
+32,Filete al Achiote,Alimento,Principal,familiar,205,135.3,False,True
+33,Filete en Salsa de Mango,Alimento,Variante,vistoso,215,137.6,False,True
+34,Filete de Mero a la Plancha,Alimento,Principal,premium,225,148.5,False,True
+35,Filete de Huachinango,Alimento,Principal,premium,235,155.1,False,True
+36,Filete al Chipotle,Alimento,Principal,familiar,208,137.28,False,True
+37,Filete de Robalo,Alimento,Principal,premium,230,151.8,False,True
+38,Filete Dorado al Limón,Alimento,Principal,familiar,198,130.68,False,True
+39,Filete de Sierra,Alimento,Principal,fresco,212,139.92,False,True
+40,Filete con Camarones,Alimento,Principal,premium,250,165.0,False,True
+41,Filete de Pescado al Coco,Alimento,Variante,vistoso,220,140.8,False,True
+42,Filete a la Diabla,Alimento,Principal,familiar,205,135.3,False,True
+43,Filete de Cazón,Alimento,Principal,familiar,190,125.4,False,True
+44,Filete de Liza,Alimento,Principal,fresco,175,115.5,False,True
+45,Filete de Corvina,Alimento,Principal,premium,240,158.4,False,True
+46,Filete Empanizado con Papas,Alimento,Principal,familiar,192,126.72,False,True
+47,Filete al Ajillo,Alimento,Principal,familiar,198,130.68,False,True
+48,Filete en Salsa Verde,Alimento,Principal,familiar,195,128.7,False,True
+49,Filete en Salsa de Camarón,Alimento,Principal,premium,255,168.3,False,True
+50,Filete de Mero al Mojo,Alimento,Principal,premium,228,150.48,False,True
+51,Filete de Huachinango Relleno,Alimento,Variante,premium,265,169.6,False,True
+52,Aguachile Verde,Alimento,Variante,temporada,150,87.0,False,True
+53,Aguachile Negro,Alimento,Variante,"vistoso,temporada",165,95.7,False,True
+54,Aguachile Rojo,Alimento,Variante,temporada,155,89.9,False,True
+55,Aguachile Mixto,Alimento,Variante,temporada,175,101.5,False,True
+56,Aguachile de Pulpo,Alimento,Variante,"premium,temporada",185,107.3,False,True
+57,Aguachile de Camarón,Alimento,Variante,temporada,160,92.8,False,True
+58,Aguachile Familiar,Alimento,Variante,"familiar,temporada",320,185.6,False,True
+59,Aguachile de Sierra,Alimento,Variante,temporada,170,98.6,False,True
+60,Aguachile de Atún,Alimento,Variante,temporada,180,104.4,False,True
+61,Aguachile Tatemado,Alimento,Variante,temporada,165,95.7,False,True
+62,Aguachile de Callo de Hacha,Alimento,Variante,"premium,temporada",200,116.0,False,True
+63,Aguachile de Jaiba,Alimento,Variante,temporada,155,89.9,False,True
+64,Aguachile Verde con Mango,Alimento,Variante,"vistoso,temporada",168,97.44,False,True
+65,Aguachile de Camarón Gigante,Alimento,Variante,"premium,temporada",195,113.1,False,True
+66,Aguachile de Pescado,Alimento,Variante,temporada,145,84.1,False,True
+67,Aguachile de Ostión,Alimento,Variante,temporada,190,110.2,False,True
+68,Aguachile con Chiles Toreados,Alimento,Variante,temporada,158,91.64,False,True
+69,Aguachile de Pulpo Verde,Alimento,Variante,"premium,temporada",190,110.2,False,True
+70,Aguachile de Camarón al Coco,Alimento,Variante,"vistoso,temporada",175,101.5,False,True
+71,Aguachile Sinaloense,Alimento,Variante,temporada,172,99.76,False,True
+72,Tacos de Pescado,Alimento,Principal,familiar,65,41.6,False,True
+73,Tacos de Camarón,Alimento,Principal,familiar,75,48.0,False,True
+74,Tacos de Marlin,Alimento,Principal,familiar,70,44.8,False,True
+75,Tacos Gobernador,Alimento,Principal,familiar,85,54.4,False,True
+76,Tacos de Pulpo,Alimento,Principal,premium,90,57.6,False,True
+77,Tacos de Jaiba,Alimento,Principal,familiar,80,51.2,False,True
+78,Tacos de Atún,Alimento,Principal,familiar,88,56.32,False,True
+79,Tacos de Chicharrón de Pescado,Alimento,Principal,familiar,68,43.52,False,True
+80,Tacos de Camarón al Coco,Alimento,Variante,vistoso,82,50.84,False,True
+81,Tacos de Sierra,Alimento,Principal,familiar,72,46.08,False,True
+82,Tacos de Mero,Alimento,Principal,familiar,86,55.04,False,True
+83,Tacos de Huachinango,Alimento,Principal,premium,92,58.88,False,True
+84,Tacos de Langosta,Alimento,Principal,premium,145,92.8,False,True
+85,Tacos de Caracol,Alimento,Principal,familiar,84,53.76,False,True
+86,Tacos de Callo de Hacha,Alimento,Principal,premium,95,60.8,False,True
+87,Tacos de Pescado Empanizado,Alimento,Principal,familiar,70,44.8,False,True
+88,Tacos de Marlin Ahumado,Alimento,Principal,familiar,78,49.92,False,True
+89,Tacos de Camarón Empanizado,Alimento,Principal,familiar,80,51.2,False,True
+90,Tacos de Pulpo a las Brasas,Alimento,Principal,premium,95,60.8,False,True
+91,Tacos de Jaiba al Mojo,Alimento,Principal,familiar,85,54.4,False,True
+92,Tacos de Ostión,Alimento,Principal,familiar,88,56.32,False,True
+93,Tacos de Camarón al Mojo de Ajo,Alimento,Principal,familiar,84,53.76,False,True
+94,Tacos de Atún Tatemado,Alimento,Variante,temporada,90,55.8,False,True
+95,Tacos de Mero a la Plancha,Alimento,Principal,familiar,88,56.32,False,True
+96,Tacos de Sierra Zarandeada,Alimento,Variante,temporada,78,48.36,False,True
+97,Tacos de Huachinango a la Veracruzana,Alimento,Principal,premium,96,61.44,False,True
+98,Tacos de Camarón Gigante,Alimento,Variante,premium,110,68.2,False,True
+99,Tacos de Pulpo al Ajillo,Alimento,Principal,premium,92,58.88,False,True
+100,Tacos de Jaiba Empanizada,Alimento,Principal,familiar,82,52.48,False,True
+101,Tacos de Marlin a la Brasa,Alimento,Principal,familiar,76,48.64,False,True
+102,Camarones a la Diabla,Alimento,Principal,familiar,210,130.2,False,True
+103,Camarones al Ajillo,Alimento,Principal,familiar,205,127.1,False,True
+104,Camarones Empanizados,Alimento,Principal,familiar,195,120.9,False,True
+105,Camarones al Coco,Alimento,Principal,vistoso,225,139.5,False,True
+106,Camarones Rellenos,Alimento,Principal,premium,235,145.7,False,True
+107,Camarones a la Plancha,Alimento,Principal,familiar,195,120.9,False,True
+108,Camarones al Mojo de Ajo,Alimento,Principal,familiar,208,128.96,False,True
+109,Camarones en Salsa de Mango,Alimento,Variante,vistoso,220,132.0,False,True
+110,Camarones al Chipotle,Alimento,Principal,familiar,215,133.3,False,True
+111,Coctel de Camarón,Alimento,Principal,familiar,155,93.0,False,True
+112,Coctel de Pulpo,Alimento,Principal,premium,190,114.0,False,True
+113,Coctel de Ostiones,Alimento,Principal,familiar,175,105.0,False,True
+114,Coctel Vuelve a la Vida,Alimento,Principal,vistoso,185,111.0,False,True
+115,Caldo de Camarón,Alimento,Principal,familiar,165,99.0,False,True
+116,Caldo de Pescado,Alimento,Principal,familiar,155,93.0,False,True
+117,Caldo de Mariscos,Alimento,Principal,familiar,210,126.0,False,True
+118,Paella de Mariscos,Alimento,Principal,premium,280,168.0,False,True
+119,Arroz a la Marinera,Alimento,Principal,familiar,175,105.0,False,True
+120,Mariscada,Alimento,Principal,premium,290,174.0,False,True
+121,Surtido de Mariscos,Alimento,Principal,premium,300,180.0,False,True
+122,Pescado Zarandeado,Alimento,Principal,"premium,temporada",310,186.0,False,True
+123,Mojarra Frita,Alimento,Principal,familiar,165,99.0,False,True
+124,Huachinango a la Veracruzana,Alimento,Principal,premium,245,147.0,False,True
+125,Huachinango Entero Frito,Alimento,Principal,premium,230,138.0,False,True
+126,Pulpo a las Brasas,Alimento,Principal,premium,240,144.0,False,True
+127,Pulpo al Ajillo,Alimento,Principal,premium,220,132.0,False,True
+128,Calamar Frito,Alimento,Principal,familiar,165,99.0,False,True
+129,Calamares Rellenos,Alimento,Principal,premium,210,126.0,False,True
+130,Ostiones al Natural,Alimento,Principal,familiar,160,92.8,False,True
+131,Ostiones a la Parmesana,Alimento,Variante,familiar,185,107.3,False,True
+132,Almejas al Natural,Alimento,Principal,familiar,150,87.0,False,True
+133,Almejas a la Mantequilla,Alimento,Variante,familiar,175,101.5,False,True
+134,Almejas al Vapor,Alimento,Principal,familiar,160,92.8,False,True
+135,Botana de Mariscos,Alimento,Principal,familiar,185,107.3,False,True
+136,Chicharrón de Pescado,Alimento,Principal,familiar,135,78.3,False,True
+137,Tostadas de Marisco,Alimento,Principal,familiar,125,72.5,False,True
+138,Tostadas de Camarón,Alimento,Principal,familiar,120,69.6,False,True
+139,Tostadas de Ceviche,Alimento,Variante,familiar,130,75.4,False,True
+140,Enchiladas de Marisco,Alimento,Principal,familiar,145,84.1,False,True
+141,Enchiladas de Camarón,Alimento,Principal,familiar,140,81.2,False,True
+142,Torta de Pescado,Alimento,Principal,familiar,110,63.8,False,True
+143,Torta de Camarón,Alimento,Principal,familiar,125,72.5,False,True
+144,Quesadilla de Mariscos,Alimento,Principal,familiar,130,75.4,False,True
+145,Hamburguesa de Pescado,Alimento,Principal,familiar,115,66.7,False,True
+146,Hamburguesa de Camarón,Alimento,Principal,familiar,135,78.3,False,True
+147,Ensalada de Mariscos,Alimento,Principal,familiar,165,95.7,False,True
+148,Ensalada César con Camarón,Alimento,Principal,familiar,145,84.1,False,True
+149,Camarones a la Parrilla,Alimento,Principal,premium,230,138.0,False,True
+150,Langostinos a la Plancha,Alimento,Principal,premium,260,156.0,False,True
+151,Coca-Cola 600ml,Bebida,Refresco,,38,18.24,False,True
+152,Coca-Cola Zero 600ml,Bebida,Refresco,,38,18.24,False,True
+153,Sprite 600ml,Bebida,Refresco,,36,17.28,False,True
+154,Fanta Naranja 600ml,Bebida,Refresco,,36,17.28,False,True
+155,Fanta Uva 600ml,Bebida,Refresco,,36,17.28,False,True
+156,Sidral Mundet 600ml,Bebida,Refresco,,36,17.28,False,True
+157,Manzanita Sol 600ml,Bebida,Refresco,,35,16.8,False,True
+158,Fresca 600ml,Bebida,Refresco,,35,16.8,False,True
+159,Dr Pepper 600ml,Bebida,Refresco,,38,18.24,False,True
+160,Big Cola 600ml,Bebida,Refresco,,34,16.32,False,True
+161,Agua de Jamaica,Bebida,Agua,vistoso,48,10.56,False,True
+162,Agua de Horchata,Bebida,Agua,vistoso,48,10.56,False,True
+163,Agua de Tamarindo,Bebida,Agua,vistoso,48,10.56,False,True
+164,Agua de Limón con Chía,Bebida,Agua,vistoso,52,11.44,False,True
+165,Agua de Pepino,Bebida,Agua,vistoso,55,12.1,False,True
+166,Agua de Sandía,Bebida,Agua,vistoso,55,12.1,False,True
+167,Agua de Coco Natural,Bebida,Agua,"vistoso,premium",75,16.5,False,True
+168,Cerveza Carta Blanca,Bebida,Cerveza,,48,26.4,False,True
+169,Cerveza Sol,Bebida,Cerveza,,48,26.4,False,True
+170,Cerveza Victoria,Bebida,Cerveza,,50,27.5,False,True
+171,Cerveza Corona Extra,Bebida,Cerveza,,52,28.6,False,True
+172,Cerveza Modelo Especial,Bebida,Cerveza,,52,28.6,False,True
+173,Cerveza Indio,Bebida,Cerveza,,50,27.5,False,True
+174,Cerveza XX Lager,Bebida,Cerveza,,50,27.5,False,True
+175,Cerveza Bohemia,Bebida,Cerveza,artesanal,58,27.84,False,True
+176,Cerveza Pacífico,Bebida,Cerveza,artesanal,58,27.84,False,True
+177,Cerveza Dos Equis Ámbar,Bebida,Cerveza,artesanal,58,27.84,False,True
+178,Michelada Clásica,Bebida,Cerveza,"vistoso,preparado",85,27.2,False,True
+179,Michelada de Camarón,Bebida,Cerveza,"vistoso,preparado,premium",120,38.4,False,True
+180,Michelada Piñada,Bebida,Cerveza,"vistoso,preparado",95,30.4,False,True
+181,Coctel de Cerveza Cantina,Bebida,Cerveza,"vistoso,preparado,premium",110,35.2,False,True
+182,Torito de Cerveza,Bebida,Cerveza,"vistoso,preparado",95,30.4,False,True

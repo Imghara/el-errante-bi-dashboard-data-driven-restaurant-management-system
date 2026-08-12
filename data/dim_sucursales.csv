@@ -1,0 +1,4 @@
+id_sucursal,nombre,ciudad,entidad,num_meseros,lat,lon,perfil
+S1,El Errante Monterrey,Monterrey,Nuevo León,24,25.6866,-100.3161,insignia
+S2,El Errante Saltillo/Torreón,Saltillo/Torreón,Coahuila,16,25.4232,-100.9992,familiar
+S3,El Errante Tampico/Reynosa,Tampico/Reynosa,Tamaulipas,8,22.2553,-97.8686,costera
